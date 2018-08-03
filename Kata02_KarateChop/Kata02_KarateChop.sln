@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata02_KarateChop", "Kata02_KarateChop\Kata02_KarateChop.csproj", "{BC8DCDA6-30F3-4074-B174-B5B6E0D0D350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata02_KarateChop.Tests", "Kata02_KarateChop.Tests\Kata02_KarateChop.Tests.csproj", "{2C11FDAE-ECE2-43C7-8D0A-476A29438C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8DCDA6-30F3-4074-B174-B5B6E0D0D350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8DCDA6-30F3-4074-B174-B5B6E0D0D350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8DCDA6-30F3-4074-B174-B5B6E0D0D350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8DCDA6-30F3-4074-B174-B5B6E0D0D350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C11FDAE-ECE2-43C7-8D0A-476A29438C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C11FDAE-ECE2-43C7-8D0A-476A29438C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C11FDAE-ECE2-43C7-8D0A-476A29438C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C11FDAE-ECE2-43C7-8D0A-476A29438C64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
