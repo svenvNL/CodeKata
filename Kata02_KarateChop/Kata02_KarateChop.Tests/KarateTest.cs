@@ -5,7 +5,7 @@ namespace Kata02_KarateChop.Tests
 {
     public abstract class KarateTest
     {
-        public void ChopTest(IKarate karate)
+        protected void ChopTest(IKarate karate)
         {
             Assert.Equal(-1, karate.Chop(3, new int[] { }));
             Assert.Equal(-1, karate.Chop(3, new[] {1}));
